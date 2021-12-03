@@ -1,6 +1,6 @@
 # Hi there, I'm Takanori Asanomi
-- 👋 I’m studying as a machine learning engineer in Fukuoka
-- 👀 I’m interested in deep learning and IoT
+- 🚀 I’m studying as a machine learning engineer in Fukuoka
+- 👀 I’m currently interested in deep learning and IoT
 
 <!---
 asanomitakanori/asanomitakanori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
