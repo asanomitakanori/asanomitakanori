@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanomitakanori
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanomitakanori&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
 
 
 # Hi there, I'm Takanori Asanomi
