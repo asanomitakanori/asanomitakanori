@@ -4,6 +4,7 @@
 - 👀 I’m currently interested in deep learning and IoT
 - 📮 How to reach me: Email 
 
+# ⚡Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanomitakanori&layout=compact)
 
 <!---
