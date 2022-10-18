@@ -1,4 +1,4 @@
-# Hi there, I'm Takanori Asanomi
+# About me
 - I’m Kyushu University students in Fukuoka
 - Studying as AI researcher
 - Interested in deep learning and IoT
