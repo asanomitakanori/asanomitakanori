@@ -1,8 +1,8 @@
 # Hi there, I'm Takanori Asanomi
-- 🏫 I’m Kyushu University students in Fukuoka
-- 🚀 I’m studying as a machine learning engineer
-- 👀 I’m currently interested in deep learning and IoT
-- 📮 How to reach me: Email 
+- I’m Kyushu University students in Fukuoka
+- Studying as AI researcher
+- Interested in deep learning and IoT
+- How to reach me: Email 
 
 # ⚡Status
 
