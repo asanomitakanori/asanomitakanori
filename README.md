@@ -1,6 +1,6 @@
 # About me
-- I’m Kyushu University students in Fukuoka
-- Studying as AI researcher
+- I'm a Data Scientist
+- My majore was AI
 - Interested in deep learning and IoT
 - How to reach me: Email 
 
