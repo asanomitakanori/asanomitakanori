@@ -1,6 +1,6 @@
 # About me
 - I'm a Data Scientist
-- My majore was AI
+- I majored in Image Recoginiton using Deep Learning
 - Interested in deep learning and IoT
 - How to reach me: Email 
 
