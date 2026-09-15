@@ -1,9 +1,3 @@
-# About me
-- I'm a Data Scientist
-- I majored in Image Recoginiton using Deep Learning
-- Interested in deep learning and IoT
-- How to reach me: Email 
-
 # ⚡Status
 
 [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=asanomitakanori&color=white)](https://github.com/evirunurm/github-stats)
